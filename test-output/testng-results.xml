@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-28T18:17:01 IST" name="Suite" finished-at="2024-12-28T18:17:25 IST" duration-ms="24178">
+    <groups>
+    </groups>
+    <test started-at="2024-12-28T18:17:01 IST" name="Test" finished-at="2024-12-28T18:17:25 IST" duration-ms="24178">
+      <class name="com.Infilon.Functional_Technical_Analyst">
+        <test-method signature="job_post()[pri:0, instance:com.Infilon.Functional_Technical_Analyst@51bde877]" started-at="2024-12-28T18:17:01 IST" name="job_post" finished-at="2024-12-28T18:17:22 IST" duration-ms="20974" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- job_post -->
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.Infilon.Functional_Technical_Analyst@51bde877]" started-at="2024-12-28T18:17:22 IST" name="tear_down" finished-at="2024-12-28T18:17:25 IST" duration-ms="2994" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+      </class> <!-- com.Infilon.Functional_Technical_Analyst -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
